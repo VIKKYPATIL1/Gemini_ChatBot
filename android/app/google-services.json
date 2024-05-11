@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "173774811395",
+    "project_id": "gemininew-a7a99",
+    "storage_bucket": "gemininew-a7a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173774811395:android:13f2606806c9a610687936",
+        "android_client_info": {
+          "package_name": "com.chetan.gemini_ai_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173774811395-bnufbu0s232e7sfg7mq6gnfc76oklo7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chetan.gemini_ai_new",
+            "certificate_hash": "fc043ddd76384373e8a76086d9fec4a54dd9dbda"
+          }
+        },
+        {
+          "client_id": "173774811395-sctqtmg82f21ib4d87ermbd14ej0c3av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMY_qBicjjpKAo889slCITJ3iMeSDPmzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173774811395-sctqtmg82f21ib4d87ermbd14ej0c3av.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173774811395-scufk27arki9av6iduicm30caosdgprn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.geminiAiNew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173774811395:android:1efeab7c0e33da43687936",
+        "android_client_info": {
+          "package_name": "com.example.gemini_ai_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173774811395-sctqtmg82f21ib4d87ermbd14ej0c3av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMY_qBicjjpKAo889slCITJ3iMeSDPmzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173774811395-sctqtmg82f21ib4d87ermbd14ej0c3av.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173774811395-scufk27arki9av6iduicm30caosdgprn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.geminiAiNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
