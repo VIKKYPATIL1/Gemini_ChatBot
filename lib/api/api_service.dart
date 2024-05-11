@@ -1,3 +1,3 @@
 class ApiService {
-  static const apiKey = "AIzaSyBCNCC9hjSTA-zwjZvVxkKuQZToplFQDbw";
+  static const apiKey = "Enter Your API key";
 }
